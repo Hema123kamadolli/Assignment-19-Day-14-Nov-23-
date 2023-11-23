@@ -1,0 +1,11 @@
+C:\mphasis-B2\Day-14\ShapeAreaLib\ShapeAreaLib\bin\Debug\net8.0\ShapeAreaLib.deps.json
+C:\mphasis-B2\Day-14\ShapeAreaLib\ShapeAreaLib\bin\Debug\net8.0\ShapeAreaLib.dll
+C:\mphasis-B2\Day-14\ShapeAreaLib\ShapeAreaLib\bin\Debug\net8.0\ShapeAreaLib.pdb
+C:\mphasis-B2\Day-14\ShapeAreaLib\ShapeAreaLib\obj\Debug\net8.0\ShapeAreaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\mphasis-B2\Day-14\ShapeAreaLib\ShapeAreaLib\obj\Debug\net8.0\ShapeAreaLib.AssemblyInfoInputs.cache
+C:\mphasis-B2\Day-14\ShapeAreaLib\ShapeAreaLib\obj\Debug\net8.0\ShapeAreaLib.AssemblyInfo.cs
+C:\mphasis-B2\Day-14\ShapeAreaLib\ShapeAreaLib\obj\Debug\net8.0\ShapeAreaLib.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-14\ShapeAreaLib\ShapeAreaLib\obj\Debug\net8.0\ShapeAreaLib.dll
+C:\mphasis-B2\Day-14\ShapeAreaLib\ShapeAreaLib\obj\Debug\net8.0\refint\ShapeAreaLib.dll
+C:\mphasis-B2\Day-14\ShapeAreaLib\ShapeAreaLib\obj\Debug\net8.0\ShapeAreaLib.pdb
+C:\mphasis-B2\Day-14\ShapeAreaLib\ShapeAreaLib\obj\Debug\net8.0\ref\ShapeAreaLib.dll
